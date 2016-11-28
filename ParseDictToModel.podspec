@@ -2,9 +2,8 @@ Pod::Spec.new do |s|
   s.name             = "ParseDictToModel"  
   s.version          = "1.0.0"  
   s.summary          = "A marquee view used on iOS."  
-  s.description      = <<-DESC  
-                       It is a marquee view used on iOS, which implement by Objective-C.  
-                       DESC  
+  s.description      = " It is a marquee view used on iOS, which implement by Objective-C.  "
+                        
   s.homepage         = "https://github.com/james1010/parseDictToModel.git"   
   s.license          = 'James'  
   s.author           = { "James" => "james_1010@126.com" }  
@@ -21,14 +20,3 @@ Pod::Spec.new do |s|
   s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit'  
   
 end 
-" Netrw Directory Listing                                        (netrw v140)
-"   /Users/James/Library/Application Support/Developer/Shared/Xcode/Plug-ins
-"   Sorted by      name
-"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
-"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:exec
-" ============================================================================
-../
-Alcatraz.xcplugin/
-SCXcodeSwitchExpander.xcplugin/
-.swp
-
