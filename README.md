@@ -1,6 +1,6 @@
 # parseDictToModel
 parse dict to model(NSString,or int\NSarray\BOOL...)
-
+if
 
 ## Demo Code:
 NSDictionary *_personDict = @{@"name":@"james",@"age":@"32",@"clothes":@[@"clothes1",@"clothes2",@"clothes3"]};
